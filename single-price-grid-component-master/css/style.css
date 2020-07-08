@@ -1,0 +1,63 @@
+h1{
+  color: hsl(179, 62%, 43%);
+}
+body{
+  background-color: hsl(204, 43%, 93%);
+  text-align: left;
+  padding: 10% 15%;
+}
+
+#top{
+background-color: white;
+  padding: 5% 7% 0 7%;
+}
+#middle{
+padding: 0 1.5%;
+}
+.subtitle{
+  padding-top: 20px;
+  color: hsl(71, 73%, 54%);
+}
+.desc{
+  padding: 7px 0;
+  color:  hsl(218, 22%, 67%);
+  line-height: 2.5rem;
+}
+.price{
+  padding-right: 1%;
+  text-align: inherit;
+font-size: 40px;
+font-weight: 700;
+}
+.perperson{
+  padding: 14px 0 14px 15px;
+}
+h5{
+  padding: 0 0 20px 0;
+}
+.monthly{
+  background-color: #2BB3B1;
+  color: hsl(204, 43%, 93%);
+padding: 5% 9%;
+  text-align: left;
+}
+.calltoaction{
+  background-color: #4ABEBD;
+  color: hsl(204, 43%, 93%);
+padding: 5% 7%;
+  text-align: left;
+}
+.monthlyheader{
+  padding: 0 20% 5% 0;
+}
+.btn{
+  margin-top: 20px;
+  background-color: hsl(71, 73%, 54%);
+  color: hsl(204, 43%, 93%);
+}
+.row{
+  padding: 0 0 5% 0;
+}
+.callheader{
+  padding-bottom: 20px;
+}
